@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'customer-churn1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ACFD5CE120FC4B40A722BCC462560BBD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_045F4C52B32548B5A19F87E550988807 }}
